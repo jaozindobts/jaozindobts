@@ -1,5 +1,25 @@
-- 👋 Hi, I’m @jaozindobts
-- 🌱 I’m currently learning about games 
+- 👋 Hi, I’m @joao
+- 🌱 eu estou aprendendo em programar
+- 👻 Estou interessado em estudar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!---
 jaozindobts/jaozindobts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
