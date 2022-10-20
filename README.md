@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @joao
-- 🌱 eu estou aprendendo em programar
+# Sobre mim
+
+
+- 👋 oi, sou @joao
+- 🤙 meu email de contato é joao.renzi.oliveira@pr.gov.br
+- 🌱 eu estou aprendendo a programar na linguagem java script
 - 👻 Estou interessado em estudar
 
 
